@@ -1,0 +1,18 @@
+--2021-06-15 03:23:51--  http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/tiny_nerf_data.npz%0D
+Resolving cseweb.ucsd.edu (cseweb.ucsd.edu)... 132.239.8.30
+Connecting to cseweb.ucsd.edu (cseweb.ucsd.edu)|132.239.8.30|:80... failed: Connection timed out.
+Retrying.
+
+--2021-06-15 03:26:02--  (try: 2)  http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/tiny_nerf_data.npz%0D
+Connecting to cseweb.ucsd.edu (cseweb.ucsd.edu)|132.239.8.30|:80... failed: Connection timed out.
+Retrying.
+
+--2021-06-15 03:28:14--  (try: 3)  http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/tiny_nerf_data.npz%0D
+Connecting to cseweb.ucsd.edu (cseweb.ucsd.edu)|132.239.8.30|:80... failed: Connection timed out.
+Retrying.
+
+--2021-06-15 12:06:49--  (try: 4)  http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/tiny_nerf_data.npz%0D
+Connecting to cseweb.ucsd.edu (cseweb.ucsd.edu)|132.239.8.30|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-06-15 12:06:50 ERROR 404: Not Found.
+
